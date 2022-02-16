@@ -5,7 +5,6 @@ My name is Matt, I'm an intern working under Oracle for Startups.
 ---
 
 [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matt-Mcl)](https://github.com/Matt-Mcl)
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matt-Mcl)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
