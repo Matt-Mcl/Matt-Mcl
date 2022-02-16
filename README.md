@@ -4,8 +4,7 @@ My name is Matt, I'm an intern working under Oracle for Startups.
 
 ---
 
-<!-- Commented out because only references public REPOs making it kidna worthless. -->
-<!-- [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matt-Mcl)](https://github.com/Matt-Mcl) -->
+[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matt-Mcl)](https://github.com/Matt-Mcl)
 
 <h2> Let's connect </h2>
 
