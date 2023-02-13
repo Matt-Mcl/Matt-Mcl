@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my github landing page!
 
-My name is Matt, I'm an intern working under Oracle for Startups.
+My name is Matt.
 
 ---
 
